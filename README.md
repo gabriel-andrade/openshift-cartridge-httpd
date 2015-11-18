@@ -9,5 +9,5 @@ To use the cartridge in OpenShift Express, insert the following URL when asked
 to select cartridge to use:
 
 ```
-http://cartreflect-claytondev.rhcloud.com/reflect?github=stefanozanella/openshift-cartridge-httpd
+raw.githubusercontent.com/gabriel-andrade/openshift-cartridge-httpd/master/metadata/manifest.yml
 ```
